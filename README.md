@@ -61,7 +61,7 @@ ICEAS-2027/
 │   │   ├── organisingTeam.jsx     # Organising team listing
 │   │   ├── Registration.jsx       # Registration information and fees
 │   │   ├── Publication.jsx        # Publication guidelines
-│   │   └── ContactUs.jsx         # Contact details (also rendered in App.jsx footer)
+│   │   └── ContactUs.jsx          # Standalone page component (currently unused); footer ContactUs section is defined in App.jsx
 │   ├── App.jsx                    # Root component — Banner, Navbar, Routes, ContactUs footer
 │   ├── main.jsx                   # React entry point
 │   └── main.scss                  # Global SCSS styles
